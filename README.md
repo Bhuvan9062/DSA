@@ -6,6 +6,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -43,4 +44,12 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
