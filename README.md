@@ -20,6 +20,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhuvan9062/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhuvan9062/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
