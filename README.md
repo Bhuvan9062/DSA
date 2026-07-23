@@ -6,6 +6,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -44,6 +45,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -53,6 +55,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -63,6 +66,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -76,5 +80,6 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
