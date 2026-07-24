@@ -11,12 +11,14 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhuvan9062/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -93,4 +96,5 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
