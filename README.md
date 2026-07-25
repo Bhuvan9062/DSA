@@ -51,6 +51,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -74,6 +75,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
@@ -84,6 +86,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -97,4 +100,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
