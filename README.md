@@ -19,6 +19,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Bhuvan9062/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Bhuvan9062/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
