@@ -6,6 +6,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhuvan9062/DSA/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
@@ -109,4 +110,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhuvan9062/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhuvan9062/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
