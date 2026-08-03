@@ -13,6 +13,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -24,6 +25,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhuvan9062/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -148,6 +150,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -161,4 +164,5 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
