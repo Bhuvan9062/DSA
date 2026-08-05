@@ -70,6 +70,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Bhuvan9062/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Bhuvan9062/DSA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Bhuvan9062/DSA/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
