@@ -17,6 +17,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvan9062/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvan9062/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -35,6 +36,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Bhuvan9062/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhuvan9062/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -61,6 +63,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan9062/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
@@ -166,6 +169,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhuvan9062/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -194,6 +198,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Bhuvan9062/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +208,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Bhuvan9062/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,10 +218,12 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Bhuvan9062/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bhuvan9062/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
