@@ -23,6 +23,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvan9062/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvan9062/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhuvan9062/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Bhuvan9062/DSA/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -86,6 +87,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Bhuvan9062/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvan9062/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvan9062/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -137,6 +140,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhuvan9062/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhuvan9062/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvan9062/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhuvan9062/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Topological Sort
 |  |
@@ -160,6 +164,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvan9062/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvan9062/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvan9062/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Bhuvan9062/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
