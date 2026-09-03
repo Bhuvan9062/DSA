@@ -7,6 +7,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan9062/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan9062/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
@@ -213,6 +214,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan9062/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan9062/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
