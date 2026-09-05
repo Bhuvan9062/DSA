@@ -32,6 +32,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhuvan9062/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhuvan9062/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhuvan9062/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhuvan9062/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhuvan9062/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
