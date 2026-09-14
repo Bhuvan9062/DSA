@@ -209,6 +209,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhuvan9062/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -264,4 +265,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhuvan9062/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
