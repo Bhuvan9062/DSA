@@ -59,6 +59,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Bhuvan9062/DSA/tree/master/0008-string-to-integer-atoi) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
