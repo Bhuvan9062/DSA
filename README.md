@@ -13,6 +13,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan9062/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bhuvan9062/DSA/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Bhuvan9062/DSA/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhuvan9062/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
@@ -238,6 +239,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Bhuvan9062/DSA/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhuvan9062/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
