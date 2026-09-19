@@ -7,6 +7,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan9062/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhuvan9062/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan9062/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bhuvan9062/DSA/tree/master/0048-rotate-image) |
@@ -77,6 +78,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhuvan9062/DSA/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -227,6 +229,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhuvan9062/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan9062/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan9062/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
