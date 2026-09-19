@@ -11,6 +11,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan9062/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bhuvan9062/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Bhuvan9062/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan9062/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bhuvan9062/DSA/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Bhuvan9062/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan9062/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -277,4 +279,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhuvan9062/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bhuvan9062/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
