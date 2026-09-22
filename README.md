@@ -24,6 +24,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bhuvan9062/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhuvan9062/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -81,6 +82,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvan9062/DSA/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bhuvan9062/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan9062/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -171,6 +173,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhuvan9062/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bhuvan9062/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvan9062/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhuvan9062/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
