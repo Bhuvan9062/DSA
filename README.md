@@ -22,6 +22,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Bhuvan9062/DSA/tree/master/1260-shift-2d-grid) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Bhuvan9062/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Bhuvan9062/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -183,6 +184,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan9062/DSA/tree/master/0001-two-sum) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvan9062/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvan9062/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -197,6 +199,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Counting Sort
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhuvan9062/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhuvan9062/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
