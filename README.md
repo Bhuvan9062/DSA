@@ -71,6 +71,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0008-string-to-integer-atoi](https://github.com/Bhuvan9062/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -82,6 +83,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -215,6 +217,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhuvan9062/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan9062/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -304,6 +307,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
