@@ -72,6 +72,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -85,12 +86,14 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvan9062/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvan9062/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/Bhuvan9062/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/Bhuvan9062/DSA/tree/master/2029-stone-game-ix) |
@@ -223,6 +226,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan9062/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvan9062/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Bhuvan9062/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Bhuvan9062/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhuvan9062/DSA/tree/master/1140-stone-game-ii) |
@@ -308,6 +312,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
