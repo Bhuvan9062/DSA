@@ -72,6 +72,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhuvan9062/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -121,6 +122,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Bhuvan9062/DSA/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvan9062/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan9062/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -324,4 +326,5 @@ A curated collection of Data Structures and Algorithms implementations and probl
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
