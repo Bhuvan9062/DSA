@@ -76,6 +76,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhuvan9062/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhuvan9062/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhuvan9062/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -92,6 +93,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhuvan9062/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhuvan9062/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -322,6 +324,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhuvan9062/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
