@@ -330,4 +330,8 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhuvan9062/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
