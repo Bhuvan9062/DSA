@@ -115,11 +115,13 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bhuvan9062/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bhuvan9062/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
@@ -133,6 +135,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bhuvan9062/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan9062/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Matrix
@@ -151,6 +154,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bhuvan9062/DSA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhuvan9062/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhuvan9062/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhuvan9062/DSA/tree/master/0207-course-schedule) |
