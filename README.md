@@ -90,6 +90,7 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0020-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvan9062/DSA/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhuvan9062/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Bhuvan9062/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhuvan9062/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhuvan9062/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -345,4 +346,12 @@ A curated collection of Data Structures and Algorithms implementations and probl
 | [0511-game-play-analysis-i](https://github.com/Bhuvan9062/DSA/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/Bhuvan9062/DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhuvan9062/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhuvan9062/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhuvan9062/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
